@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("Hello  the word world")
+=======
+print("Hello the word worldd")
+>>>>>>> development
